@@ -11,27 +11,26 @@ import WorkFlow from '../WorkFlow/WorkFlow'
 
 const Main = () => {
   return (
-    <div className='container mx-auto w-full' >
+    < >
       <Header />
       <br />
       {/** Childe Component start */}
       <MainContent />
       <br />
-      {/** Childe Component end */}
       <Tabs />
       <br />
-      <WorkFlow />
+       <WorkFlow />
       <br />
       <BeforeWove />
+       <br />
+        <AfterWove />
       <br />
-      <AfterWove />
-      <br />
-      <SourceTruth />
+       <SourceTruth />
       <br />
       <Loop />
       <br />
       <Footer />
-    </div>
+    </>
   )
 }
 

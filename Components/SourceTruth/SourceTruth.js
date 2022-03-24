@@ -13,24 +13,24 @@ const SourceTruth = () => {
       </div>
 
       <div className="mx-auto container flex xl:justify-between justify-center items-center xl:mt-14 md:mt-[48px] mt-[35px] xl:px-6 lg:px-3 md:px-0 px-[4px] overflow-hidden">
-      
-        <div className="xl:mt-0 md:-mt-28 -mt-24" role="img" aria-label="google drive logo"><img src="./images/Group 5482.svg" className="xl:w-[187.6px] xl:h-[360.53px] w-[82.96px] h-[188.98px]" alt=""/></div>
-      
+
+        <div className="xl:mt-0 md:-mt-28 -mt-24" role="img" aria-label="google drive logo"><img src="./images/Group 5482.svg" className="xl:w-[187.6px] xl:h-[360.53px] w-[82.96px] h-[188.98px]" alt="" /></div>
+
         <div className="xl:w-[624px] lg:w-[571px] md:w-[533.27px] w-full relative">
           <div className="flex items-center justify-between relative z-20">
             <div role="img" aria-label="Figma logo" className="bg-neutral-900 flex flex-col items-center justify-center xl:w-[107.55px] xl:h-[107.55px] lg:w-[98.41px] lg:h-[98.41px] md:w-[91.91px] md:h-[91.91px] w-[44.28px] h-[44.28px] rounded-full">
-              <img src="./images/figma.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]"/>
+              <img src="./images/figma.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]" />
             </div>
             <div role="img" aria-label="Notion logo" className="bg-neutral-900 flex flex-col items-center justify-center xl:w-[107.55px] xl:h-[107.55px] lg:w-[98.41px] lg:h-[98.41px] md:w-[91.91px] md:h-[91.91px] w-[44.28px] h-[44.28px] rounded-full">
-              <img src="./images/notion.svg" alt="notion" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]"/>
+              <img src="./images/notion.svg" alt="notion" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]" />
             </div>
           </div>
           <div className="flex items-center justify-between lg:mt-[188px] md:mt-[160.84px] mt-[95px] relative z-20">
             <div role="img" aria-label="sheets logo" className="bg-neutral-900 flex flex-col items-center justify-center xl:w-[107.55px] xl:h-[107.55px] lg:w-[98.41px] lg:h-[98.41px] md:w-[91.91px] md:h-[91.91px] w-[44.28px] h-[44.28px] rounded-full">
-              <img src="./images/Sheets.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]"/>
+              <img src="./images/Sheets.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]" />
             </div>
             <div role="img" aria-label="github logo" className="bg-neutral-900 flex flex-col items-center justify-center xl:w-[107.55px] xl:h-[107.55px] lg:w-[98.41px] lg:h-[98.41px] md:w-[91.91px] md:h-[91.91px] w-[44.28px] h-[44.28px] rounded-full">
-              <img src="./images/github.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]"/>
+              <img src="./images/github.svg" alt="" className="xl:w-[44.81px] xl:h-[44.81px] lg:w-[41.01px] lg:h-[41.01px] md:w-[38.3px] md:h-[38.3px] w-[18.45px] h-[18.45px]" />
             </div>
           </div>
           <div className="flex items-center justify-center mt-10 relative z-20">
@@ -72,8 +72,8 @@ const SourceTruth = () => {
             </div>
           </div>
         </div>
-        
-        <div className="xl:mt-0 md:-mt-28 -mt-24" role="img" aria-label="Hubspot,kayako and trello logos"><img src="./images/Group 5483.svg" className="xl:w-[187.6px] xl:h-[360.53px] w-[82.96px] h-[188.98px]" alt="discord"/></div>
+
+        <div className="xl:mt-0 md:-mt-28 -mt-24" role="img" aria-label="Hubspot,kayako and trello logos"><img src="./images/Group 5483.svg" className="xl:w-[187.6px] xl:h-[360.53px] w-[82.96px] h-[188.98px]" alt="discord" /></div>
       </div>
     </>
   )

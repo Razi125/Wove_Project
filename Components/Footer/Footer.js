@@ -1,7 +1,7 @@
 import React from 'react'
 const Footer = () => {
   return (
-    <div>
+    <div className='mx-auto container'>
       <div style={{ border: '1px solid #262626', width: '100%' }}></div>
       <div className='flex flex-col md:py-5 md:flex-row  justify-between items-center'>
         <div className='py-5 md:py-0'>
