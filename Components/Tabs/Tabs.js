@@ -5,7 +5,7 @@ const Tabs = () => {
 
   return (
     <>
-     
+
       <div className=" mx-auto container md:flex justify-between items-center hidden  lg:mt-28 mb-20  space-x-12">
         <div className=" md:mx-0 lg:mx-10">
           <ul
@@ -93,7 +93,7 @@ const Tabs = () => {
           <div className="bg-bgtab w-full">
             <div className="mx-auto container relative flex flex-col break-words shadow-lg rounded">
               <div>
-                <p className="text-[#FFFFFF] flex justify-center items-center text-base avenir font-normal leading-5 ">Visibility into all of your project's moving pieces. Minus the noise and distractions.</p>
+                <p className="text-[#FFFFFF] flex justify-center items-center text-base avenir font-normal leading-5 ">Visibility into all of your project&apos;s moving pieces. Minus the noise and distractions.</p>
               </div>
 
               <div className="flex justify-center">
@@ -131,7 +131,7 @@ const Tabs = () => {
             </p>
           </div>
           <div >
-            <p className='text-[#A3A3A3] text-sm text-center font-[350] font-[avenir] not-italic  leading-[18px]  max-w-[270px] '>Visibility into all of your project's moving pieces. No noise or distractions.</p>
+            <p className='text-[#A3A3A3] text-sm text-center font-[350] font-[avenir] not-italic  leading-[18px]  max-w-[270px] '>Visibility into all of your project&apos;s moving pieces. No noise or distractions.</p>
           </div>
           <div>
             <img className=" w-[322px] h-[216px]" src="./images/Frame 174.svg" />
@@ -145,10 +145,10 @@ const Tabs = () => {
             </p>
           </div>
           <div >
-            <p className='text-[#A3A3A3] text-sm text-center font-[350] font-[avenir] not-italic  leading-[18px]  max-w-[270px] '>Visibility into all of your project's moving pieces. No noise or distractions.</p>
+            <p className='text-[#A3A3A3] text-sm text-center font-[350] font-[avenir] not-italic  leading-[18px]  max-w-[270px] '>Visibility into all of your project&apos;s moving pieces. No noise or distractions.</p>
           </div>
           <div>
-            <img className="w-[322px] h-[216px]" src="./images/002MeetingScreen.svg" />
+            <img className="w-[322px] h-[216px]" src="./images/MeetingScreen.svg" />
           </div>
         </div>
       </div>
